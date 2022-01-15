@@ -1,0 +1,15 @@
+C:\Users\vivek\c# Programs\bin\Debug\net6.0\c# Programs.exe
+C:\Users\vivek\c# Programs\bin\Debug\net6.0\c# Programs.deps.json
+C:\Users\vivek\c# Programs\bin\Debug\net6.0\c# Programs.runtimeconfig.json
+C:\Users\vivek\c# Programs\bin\Debug\net6.0\c# Programs.dll
+C:\Users\vivek\c# Programs\bin\Debug\net6.0\ref\c# Programs.dll
+C:\Users\vivek\c# Programs\bin\Debug\net6.0\c# Programs.pdb
+C:\Users\vivek\c# Programs\obj\Debug\net6.0\c# Programs.csproj.AssemblyReference.cache
+C:\Users\vivek\c# Programs\obj\Debug\net6.0\c# Programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivek\c# Programs\obj\Debug\net6.0\c# Programs.AssemblyInfoInputs.cache
+C:\Users\vivek\c# Programs\obj\Debug\net6.0\c# Programs.AssemblyInfo.cs
+C:\Users\vivek\c# Programs\obj\Debug\net6.0\c# Programs.csproj.CoreCompileInputs.cache
+C:\Users\vivek\c# Programs\obj\Debug\net6.0\c# Programs.dll
+C:\Users\vivek\c# Programs\obj\Debug\net6.0\ref\c# Programs.dll
+C:\Users\vivek\c# Programs\obj\Debug\net6.0\c# Programs.pdb
+C:\Users\vivek\c# Programs\obj\Debug\net6.0\c# Programs.genruntimeconfig.cache
